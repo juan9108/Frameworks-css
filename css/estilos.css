@@ -1,0 +1,38 @@
+.container-header {
+  min-height: 100px;
+}
+
+.columna-redes {
+  font-size: 36px;
+}
+
+.columna-redes div a .icono-red {
+  margin-top: 0;
+}
+
+.icono-red {
+  width: 36px;
+}
+
+.column-height {
+  min-height: 50rem;
+}
+
+.img-logo img {
+  float: right;
+}
+
+.color-1{
+  background: #EC4343;
+  color: white;
+}
+
+.color-2{
+  background: #56B5CF;
+  color: white;
+}
+
+.color-3{
+  background: #ECB54F;
+  color: white;
+}
