@@ -1,0 +1,26 @@
+body {
+  background-image:  url(../img/container-img.jpg);
+}
+
+header section {
+  background: rgba(88, 88, 88, 0.9) !important;
+}
+
+.row{
+  background: #F5F5F5
+}
+.logo {
+  height: 50px !important;
+  width: 80px !important;
+  float: right;
+}
+
+div img {
+  padding: 5px;
+  margin: 0;
+  width: 100%;
+}
+
+.search {
+  width: 100%;
+}
