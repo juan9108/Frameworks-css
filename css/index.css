@@ -1,0 +1,24 @@
+.cuerpo {
+  background-image: url(../img/fondo-blog.jpg);
+}
+
+nav {
+  min-height: 220px;
+}
+
+.logo {
+  max-height: 180px;
+  padding: 5px;
+  padding-top: 10px;
+}
+
+section {
+  margin-top: 5px;
+  margin-left: 0;
+  max-height: 20em;
+}
+
+.icono-redsocial {
+  margin-top: 30px;
+  min-height: 55px;
+}
